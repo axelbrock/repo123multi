@@ -1,6 +1,6 @@
 import React, { Component, PropTypes } from 'react';
 
-class Mnm extends Component {
+class nadkh2 extends Component {
 	
   render(){
 	  
@@ -13,4 +13,4 @@ class Mnm extends Component {
   }
 }
 
-export default Mnm;
+export default nadkh2;
