@@ -1,6 +1,6 @@
 import React, { Component, PropTypes } from 'react';
 
-class nadkh2 extends Component {
+class Twix extends Component {
 	
   render(){
 	  
@@ -13,4 +13,4 @@ class nadkh2 extends Component {
   }
 }
 
-export default nadkh2;
+export default Twix;
