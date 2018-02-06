@@ -1,6 +1,6 @@
 import React, { Component, PropTypes } from 'react';
 
-class Kitkat extends Component {
+class nadkh2 extends Component {
 	
   render(){
 	  
@@ -13,4 +13,4 @@ class Kitkat extends Component {
   }
 }
 
-export default Kitkat;
+export default nadkh2;
